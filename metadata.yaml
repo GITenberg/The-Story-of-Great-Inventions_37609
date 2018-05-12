@@ -1,0 +1,30 @@
+_repo: The-Story-of-Great-Inventions_37609
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burns, Elmer Ellsworth
+    alias: Burns, Elmer E. (Elmer Ellsworth)
+    birthdate: 1868
+    gutenberg_agent_id: '38948'
+    url: http://www.gutenberg.org/2009/agents/38948
+description: ''
+gutenberg_issued: '2011-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37609'
+  lccn: '10026818'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inventions -- History'
+- !lcc 'T'
+tableOfContents: 'The age of Archimedes -- The age of Galileo -- The eighteenth century
+  -- Faraday and the first dynamo -- Great inventions of the nineteenth century --
+  The twentieth-century outlook -- Appendix: brief notes on important inventions.'
+title: The Story of Great Inventions
+url: http://www.gutenberg.org/ebooks/37609
